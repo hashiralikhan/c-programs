@@ -1,0 +1,26 @@
+﻿Build started 12/26/2017 9:33:38 PM.
+     1>Project "C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\frist five and their sum\frist five and their sum.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\frist five and their sum.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt fff.c
+         fff.c
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\Debug\frist five and their sum.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\frist five and their sum.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\Debug\frist five and their sum.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\Debug\frist five and their sum.lib" /MACHINE:X86 "Debug\frist five and their sum.exe.embed.manifest.res"
+         Debug\fff.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\frist five and their sum.exe.embed.manifest" /manifest "Debug\frist five and their sum.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         frist five and their sum.vcxproj -> C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\Debug\frist five and their sum.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\frist five and their sum.unsuccessfulbuild".
+         Touching "Debug\frist five and their sum.lastbuildstate".
+     1>Done Building Project "C:\Users\Muhammad HaMiD\Downloads\Programs\frist five and their sum\frist five and their sum\frist five and their sum.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.51

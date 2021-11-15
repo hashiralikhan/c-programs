@@ -1,0 +1,21 @@
+﻿1>------ Build started: Project: display your name, Configuration: Debug Win32 ------
+1>Build started 12/23/2017 9:20:24 PM.
+1>InitializeBuildStatus:
+1>  Creating "Debug\display your name.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  y.c
+1>ManifestResourceCompile:
+1>  All outputs are up-to-date.
+1>Manifest:
+1>  All outputs are up-to-date.
+1>LinkEmbedManifest:
+1>  All outputs are up-to-date.
+1>  display your name.vcxproj -> C:\Users\Muhammad HaMiD\Downloads\Programs\display your name\Debug\display your name.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\display your name.unsuccessfulbuild".
+1>  Touching "Debug\display your name.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.56
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

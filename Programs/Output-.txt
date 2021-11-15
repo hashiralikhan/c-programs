@@ -1,0 +1,18 @@
+﻿1>------ Build started: Project: sum, Configuration: Debug Win32 ------
+1>Build started 12/23/2017 9:39:01 PM.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\Muhammad HaMiD\Downloads\Programs\sum\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "Debug\sum.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  s.c
+1>LinkEmbedManifest:
+1>  sum.vcxproj -> C:\Users\Muhammad HaMiD\Downloads\Programs\sum\Debug\sum.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\sum.unsuccessfulbuild".
+1>  Touching "Debug\sum.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.98
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

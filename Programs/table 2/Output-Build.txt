@@ -1,0 +1,25 @@
+﻿1>------ Build started: Project: table 2, Configuration: Debug Win32 ------
+1>Build started 12/19/2017 10:20:31 PM.
+1>InitializeBuildStatus:
+1>  Creating "Debug\table 2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  table.c
+1>c:\users\muhammad hamid\documents\visual studio 2010\projects\table 2\table 2\table.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+1>c:\users\muhammad hamid\documents\visual studio 2010\projects\table 2\table 2\table.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+1>ManifestResourceCompile:
+1>  All outputs are up-to-date.
+1>Manifest:
+1>  All outputs are up-to-date.
+1>LinkEmbedManifest:
+1>  All outputs are up-to-date.
+1>  table 2.vcxproj -> C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\table 2\Debug\table 2.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\table 2.unsuccessfulbuild".
+1>  Touching "Debug\table 2.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.56
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

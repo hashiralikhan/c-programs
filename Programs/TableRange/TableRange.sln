@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TableRange", "TableRange\TableRange.vcxproj", "{60BDF4C1-A7C9-474A-B651-1CDBD6B8A518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BDF4C1-A7C9-474A-B651-1CDBD6B8A518}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60BDF4C1-A7C9-474A-B651-1CDBD6B8A518}.Debug|Win32.Build.0 = Debug|Win32
+		{60BDF4C1-A7C9-474A-B651-1CDBD6B8A518}.Release|Win32.ActiveCfg = Release|Win32
+		{60BDF4C1-A7C9-474A-B651-1CDBD6B8A518}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

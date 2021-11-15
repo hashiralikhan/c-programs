@@ -1,0 +1,33 @@
+﻿Build started 12/26/2017 8:31:12 PM.
+     1>Project "C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\find circumference\find circumference.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\find circumference.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt circumference.c
+         circumference.c
+     1>c:\users\muhammad hamid\downloads\programs\find circumference\find circumference\circumference.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\muhammad hamid\downloads\programs\find circumference\find circumference\circumference.c(8): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\muhammad hamid\downloads\programs\find circumference\find circumference\circumference.c(9): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\find circumference.exe.embed.manifest.res" "Debug\find circumference_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\find circumference.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.lib" /MACHINE:X86 "Debug\find circumference.exe.embed.manifest.res"
+         Debug\circumference.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\find circumference.exe.embed.manifest" /manifest "Debug\find circumference.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\find circumference.exe.embed.manifest.res" "Debug\find circumference_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\find circumference.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.lib" /MACHINE:X86 "Debug\find circumference.exe.embed.manifest.res"
+         Debug\circumference.obj
+         find circumference.vcxproj -> C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\Debug\find circumference.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\find circumference.unsuccessfulbuild".
+         Touching "Debug\find circumference.lastbuildstate".
+     1>Done Building Project "C:\Users\Muhammad HaMiD\Downloads\Programs\find circumference\find circumference\find circumference.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.85

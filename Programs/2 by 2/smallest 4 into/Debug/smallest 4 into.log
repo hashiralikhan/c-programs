@@ -1,0 +1,20 @@
+﻿Build started 12/19/2017 10:22:19 PM.
+     1>Project "C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\2 by 2\smallest 4 into\smallest 4 into.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\two by two.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\two by two.unsuccessfulbuild".
+         Touching "Debug\two by two.lastbuildstate".
+     1>Done Building Project "C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\2 by 2\smallest 4 into\smallest 4 into.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

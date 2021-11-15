@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "two no input find if second no is square fst", "two no input find if second no is square fst\two no input find if second no is square fst.vcxproj", "{6C82DE5E-7388-4CC9-BF2B-836CDEE88D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C82DE5E-7388-4CC9-BF2B-836CDEE88D25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C82DE5E-7388-4CC9-BF2B-836CDEE88D25}.Debug|Win32.Build.0 = Debug|Win32
+		{6C82DE5E-7388-4CC9-BF2B-836CDEE88D25}.Release|Win32.ActiveCfg = Release|Win32
+		{6C82DE5E-7388-4CC9-BF2B-836CDEE88D25}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

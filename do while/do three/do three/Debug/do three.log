@@ -1,0 +1,31 @@
+﻿Build started 1/21/2018 7:09:08 PM.
+     1>Project "C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\do three\do three.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\do three.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "do three.cpp"
+         do three.cpp
+     1>c:\users\muhammad hamid\documents\visual studio 2010\projects\do three\do three\do three.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\do three.exe.embed.manifest.res" "Debug\do three_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\do three.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.lib" /MACHINE:X86 "Debug\do three.exe.embed.manifest.res"
+         "Debug\do three.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\do three.exe.embed.manifest" /manifest "Debug\do three.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\do three.exe.embed.manifest.res" "Debug\do three_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\do three.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.lib" /MACHINE:X86 "Debug\do three.exe.embed.manifest.res"
+         "Debug\do three.obj"
+         do three.vcxproj -> C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\Debug\do three.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\do three.unsuccessfulbuild".
+         Touching "Debug\do three.lastbuildstate".
+     1>Done Building Project "C:\Users\Muhammad HaMiD\Documents\Visual Studio 2010\Projects\do three\do three\do three.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
